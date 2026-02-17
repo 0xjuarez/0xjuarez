@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Acerca de mí:
 Actualmente estudio hacking y programación.<br>Desarrollador de software e IA.<br>Participante de hackathones.<br>Fundador de DevSecurity.<br>Apasionado de la tecnología y mas cuando se trata de llevarla al siguiente nivel.<br>Investigador.<br>Hacker ético.<br>Busco colaborar con proyectos, asociaciones o cualquier fundación que ayude a la gente.<br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxldw) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@devescurity) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JessAle81778327) 
 
 # 💻 Tech Stack:
