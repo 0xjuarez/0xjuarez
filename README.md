@@ -10,13 +10,11 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=9FEF00&center=true&vCenter=true&width=500&lines=Ethical+Hacker+%2F+Security+Researcher;Software+%26+AI+Developer;Founder+%40+DevSecurity;Breaking+things+to+understand+them." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=9FEF00&center=true&vCenter=true&width=520&lines=Ethical+Hacker+%2F+Security+Researcher;Software+%26+AI+Developer;Founder+%40+DevSecurity;Breaking+things+to+understand+them.;autodidact+%2F+always+learning." alt="typing" />
 
 </div>
 
 ---
-
-<img align="right" width="180" src="https://i.imgur.com/waxVImv.png" />
 
 ## whoami
 
@@ -29,7 +27,8 @@ ROLE="Security Researcher · Software & AI Developer"
 ORG="DevSecurity [Founder]"
 STATUS="Breaking things to understand them"
 LOCATION="MX"
-MODE="autodidact"
+MODE="autodidact · always learning"
+MISSION="Colaborar con proyectos que generen impacto real"
 ```
 
 - Estudiante activo de hacking y programación
@@ -43,24 +42,29 @@ MODE="autodidact"
 
 ## Inspiración
 
-<div align="center">
-
-> *"El conocimiento es poder, pero solo si lo compartes."*
-
-</div>
+> *El conocimiento es poder — pero solo si lo compartes.*
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Creeper_%28Minecraft%29.png/240px-Creeper_%28Minecraft%29.png" width="80" title="El primer pentester del gaming" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ada_Lovelace_portrait.jpg/240px-Ada_Lovelace_portrait.jpg" width="80" title="Ada Lovelace — primer programadora" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/240px-Alan_Turing_Aged_16.jpg" width="80" title="Alan Turing — padre de la computación" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Richard_Stallman_at_Pittsburgh_University.jpg/240px-Richard_Stallman_at_Pittsburgh_University.jpg" width="80" title="Richard Stallman — libre como el conocimiento" />
-</div>
-
-<div align="center">
-<sub>Ada Lovelace · Alan Turing · Richard Stallman · y el Creeper, que rompió lo que nadie había roto antes</sub>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="./assets/image1.jpg" width="180" />
+<br/><sub>01</sub>
+</td>
+<td align="center" width="25%">
+<img src="./assets/image2.jpg" width="180" />
+<br/><sub>02</sub>
+</td>
+<td align="center" width="25%">
+<img src="./assets/image3.jpg" width="180" />
+<br/><sub>03</sub>
+</td>
+<td align="center" width="25%">
+<img src="./assets/image4.jpg" width="180" />
+<br/><sub>04</sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -69,9 +73,10 @@ MODE="autodidact"
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sxldw)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/0xjuarez)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@devescurity)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/JessAle81778327)
+[![Web](https://img.shields.io/badge/Web-devsecuritymx.com-00ccff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devsecuritymx.com)
 
 </div>
 
